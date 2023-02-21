@@ -1,1 +1,1 @@
-#Atividades do cursos ciencias da terra com python pelo Mestrado na UFF
+#Atividades da disciplina ciências da terra com python pelo Mestrado na UFF
